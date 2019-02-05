@@ -1,0 +1,10 @@
+C:\Users\Prof. Omar Morales\Desktop\Graficacion\Figuras Primitivas\Figuras Primitivas\bin\Debug\Figuras Primitivas.exe.config
+C:\Users\Prof. Omar Morales\Desktop\Graficacion\Figuras Primitivas\Figuras Primitivas\bin\Debug\Figuras Primitivas.exe
+C:\Users\Prof. Omar Morales\Desktop\Graficacion\Figuras Primitivas\Figuras Primitivas\bin\Debug\Figuras Primitivas.pdb
+C:\Users\Prof. Omar Morales\Desktop\Graficacion\Figuras Primitivas\Figuras Primitivas\obj\Debug\Figuras Primitivas.csprojAssemblyReference.cache
+C:\Users\Prof. Omar Morales\Desktop\Graficacion\Figuras Primitivas\Figuras Primitivas\obj\Debug\Figuras_Primitivas.Form1.resources
+C:\Users\Prof. Omar Morales\Desktop\Graficacion\Figuras Primitivas\Figuras Primitivas\obj\Debug\Figuras_Primitivas.Properties.Resources.resources
+C:\Users\Prof. Omar Morales\Desktop\Graficacion\Figuras Primitivas\Figuras Primitivas\obj\Debug\Figuras Primitivas.csproj.GenerateResource.cache
+C:\Users\Prof. Omar Morales\Desktop\Graficacion\Figuras Primitivas\Figuras Primitivas\obj\Debug\Figuras Primitivas.csproj.CoreCompileInputs.cache
+C:\Users\Prof. Omar Morales\Desktop\Graficacion\Figuras Primitivas\Figuras Primitivas\obj\Debug\Figuras Primitivas.exe
+C:\Users\Prof. Omar Morales\Desktop\Graficacion\Figuras Primitivas\Figuras Primitivas\obj\Debug\Figuras Primitivas.pdb
